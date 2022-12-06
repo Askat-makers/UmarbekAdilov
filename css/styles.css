@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+body {
+  background: url(https://img.freepik.com/free-vector/paper-style-white-monochrome-background_52683-66443.jpg?w=2000);
+}
